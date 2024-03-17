@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-his repository contains code for predicting customer churn using machine learning models. Customer churn refers to the phenomenon where customers stop doing business with a company. The goal of this project is to develop predictive models that can identify customers who are likely to churn, allowing the company to take proactive measures to retain them.
+This repository contains code for predicting customer churn using machine learning models. Customer churn refers to the phenomenon where customers stop doing business with a company. The goal of this project is to develop predictive models that can identify customers who are likely to churn, allowing the company to take proactive measures to retain them.
 
 # Dataset
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
